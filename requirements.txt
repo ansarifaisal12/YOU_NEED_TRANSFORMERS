@@ -1,0 +1,12 @@
+pandas
+yfinance 
+pandas
+numpy
+plotly
+langchain-community
+streamlit
+ollama
+streamlit_lottie
+streamlit_option_menu
+ta
+torch
